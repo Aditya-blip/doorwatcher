@@ -52,6 +52,10 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        door: {
+          locked: "#EF4444",
+          unlocked: "#10B981",
+        }
       },
       borderRadius: {
         lg: "var(--radius)",
